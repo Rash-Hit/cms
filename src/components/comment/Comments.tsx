@@ -69,7 +69,7 @@ const Comments = async ({
             scroll={false}
           >
             <div className="flex gap-2">
-              <ArrowLeftIcon /> Simon go back 
+              <ArrowLeftIcon /> testing Notification 
             </div>
           </Link>
         )}
